@@ -64,6 +64,6 @@ taxa_barplot(taxasums, metadata, "location", ntoplot = 20)
 ggsave("barplot.silva20.pdf", height=4, width=8, device="pdf") # save a PDF 4 inches by 8 inches
 
 #Heatmap
-taxa_heatmap(taxasums, metadata, "location", ntoplot=35)
+taxa_heatmap(taxasums, metadata, "location", ntoplot=25)
 ggsave("heatmap.silva.pdf", height=4, width=8, device="pdf") # save a PDF 4 inches by 8 inches
 
