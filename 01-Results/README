@@ -1,14 +1,12 @@
 Script and input files for plotting and statistics.
 
-Method Description
-Figure 1
+Description of Methods
+Natural Substrate Bioassays (Figure 1)
 
-Natural Substrate Bioassays
 For bioassays testing the inductive capacity of natural substrates, larvae were placed in 12 well plates with substrate collected from deep (25.128433, -80.443574) and shallow (25.102204, -80.438708) sites (Supplemental Figure 1). Assays were performed by providing 3 x 3 mm squares of plant substrates (mangrove leaf, turtle grass, shoal grass), several grains of sand, or small shell pieces to the larvae. Mangrove leaves and sea grass were visually inspected to confirm degradation as described by Fleck and Fitt (1999). Substrates were gently washed with filtered with seawater prior to their addition to the experimental plates. Control wells were filled with filtered artificial seawater (FSW). 6 wells with 6 larvae were prepared for each substrate type. Plates were kept undisturbed at 25°C in the dark. The larvae in plates were scored for settlement and metamorphosis at 72 hrs after exposure to the substrates.
 
-Figure 2
 
-Bacterial Monoculture Bioassays
+Bacterial Monoculture Bioassays (Figure 2)
 Bioassays testing the inductive capacity of bacterial monoculture were prepared in 24 well plates by filling individual wells with 1 ml of sterile marine media (Difco Marine Broth 2216). Control wells were filled with filtered artificial seawater (FSW). A second negative control was included in which wells pre-treated with marine media were left un-inoculated and rinsed with FSW as described below. Wells containing media were inoculated with isolates by transferring a single colony to a well. Wells were inoculated in triplicate per isolate, and were randomly assigned across multiple plates. Plates were incubated at 28°C for 24 hrs without shaking to allow the bacteria to grow and settle on the surfaces of the well. Wells were gently rinsed with 1 ml of FSW without disrupting the settled bacteria for a total of 2 washes at the end of the 24 hrs. Wells that were still turbid after the two washes were rinsed for a third time, or until the seawater remained clear. Wells were then filled with a total of 2 ml of 0.2 μm FSW. A positive control was included in the assay where the synthetic settlement and metamorphosis inducing peptide Z-GPGGPA (Bachem) were added at a final concentration of 1.5 x 10-5 M. Approximately ten C. xamachana larvae kept in ABS for 48 hrs were placed in each of the wells. Plates were kept undisturbed at 25°C in the dark. The larvae were scored for settlement and metamorphosis at 24 and 48 hrs using a Stemi 305 stereo microscope (Zeiss). 
 
 Statistics
