@@ -1,0 +1,22 @@
+  //
+Genome HI1
+Annotation Pseudoalteromonas_HI1.v2
+//
+Genome MB41
+Annotation MB41.166623
+//
+Genome lipolytica
+Annotation Pseudoalteromonas_lipolytica.v2
+//
+Genome 14001
+Annotation Pseudoalteromonas_14001.v2
+//
+Genome A757
+Annotation Pseudoalteromonas_A757.v2
+//
+Genome S4498
+Annotation Pseudoalteromonas_S4498.v2
+//
+Genome 6061
+Annotation Pseudoalteromonas_6061.v2
+//
