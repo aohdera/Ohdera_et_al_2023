@@ -18,4 +18,4 @@ qiime diversity alpha-group-significance --i-alpha-diversity core-metrics-result
 qiime diversity beta-group-significance --i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza --m-metadata-file metadata.txt --m-metadata-column degradation --o-visualization core-metrics-results/unweighted_unifrac-degradation-significance.qzv --p-pairwise
 
 #perform permanova analysis
-beta-group-significance --i-distance-matrix core-metrics-results/weighted_unifrac_distance_matrix.qza --m-metadata-file metadata.txt --m-metadata-column location --p-method permanova --p-pairwise TRUE --p-permutations 9999 --o-visualization core-metrics-results/permanova-wunifrac.qzv
+beta-group-significance --i-distance-matrix core-metrics-results/weighted_unifrac_distance_matrix.qza --m-metadata-file metadata.txt --m-metadata-column depth --p-method permanova --p-pairwise TRUE --p-permutations 9999 --o-visualization core-metrics-results/permanova-wunifrac.qzv
