@@ -19,4 +19,10 @@ http://www.protologger.de/
 #antiSMASH
 https://antismash.secondarymetabolites.org/#!/start
 
+#synima
+Input files used in the analysis are provided in sub-directories corresponding to the species included in the visualization. Each sub-directory contains 4 files.
+1. <id>.genome.fa
+2. <id>.annotation.gff3
+3. <id>.annotation.cds
+4. <id>.annotation.pep
 
