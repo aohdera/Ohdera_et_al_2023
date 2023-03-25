@@ -6,6 +6,10 @@ Draft genomes were de novo assembled using the A5-miseq pipeline using default s
 #A5-miseq pipeline
 a5_pipeline.pl <Read 1 FastQ> <Read 2 FastQ> <out_base>
 
+#fastANI
+#refseq_list.txt (complete genomes downloaded from NCBI Refseq database)
+/central/groups/GoentoroLab/aohdera/01-APP/FastANI-1.33/fastANI -q MB41.genome.fa --rl refseq_list.txt --matrix -t 4 -o fastani_refseq_mb41.out
+
 #RAST
 https://rast.nmpdr.org/
 
