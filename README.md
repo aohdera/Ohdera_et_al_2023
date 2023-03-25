@@ -8,4 +8,10 @@ Sections:
 1-Results
 Bacteria isolated from field collected substrate induce larval settlement of Cassiopea
   - Input files and scripts used to generate figures 1A,1B, and 2.
-2-
+2-16S_amplicon_analysis
+Inductive isolates are rare in degrading mangrove leaves![image](https://user-images.githubusercontent.com/3336083/227670566-f17a930e-6c93-41f4-9d34-0b76efd7153d.png)
+  - Input files and scripts for the Qiime2 analysis
+3-GENOME_ANALYSIS
+Genome Analysis of Inductive Isolates
+  - Input files and scripts for the synima synteny visualization
+
