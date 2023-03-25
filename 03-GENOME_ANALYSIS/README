@@ -1,1 +1,18 @@
 
+#Genome Assembly and Analysis
+
+Draft genomes were de novo assembled using the A5-miseq pipeline using default settings. The A5-miseq pipeline performs reads trimming, error correction, contig assembly, and final scaffolding.  Genes were annotated with Glimmer3.0 implemented through RAST. Completeness and contamination of the genomes were calculated using checkM, implemented in the Galaxy-based Protologger website (www.protologger.de). Average nucleotide identity analysis was performed with fastANI against genomes acquired from the NCBI Refseq database. The presence of tailocin encoding mac protein genes, tetrabromopyrrole gene cluster, and aryl polyene clusters were determined by performing BLASTp (ver 2.5.0+) against known gene clusters. Genomes and coding sequences of Pseudoalteromonas strains (GCF_000814765.1, GCF_001625655.1, GCF_012641745.1, GCF_004103285.1, GCF_005886105.1, GCF_000576675.1) used to compare presence of biosynthetic gene clusters were downloaded from the NCBI Refseq database.  Secondary metabolite cluster prediction was performed with antiSMASH (ver. 6.0). Visualizations were performed with Gene Graphics (Harrison et al. 2017) and Synima.
+
+#A5-miseq pipeline
+
+
+#RAST
+https://rast.nmpdr.org/
+
+#Protologger
+http://www.protologger.de/
+
+#antiSMASH
+https://antismash.secondarymetabolites.org/#!/start
+
+
